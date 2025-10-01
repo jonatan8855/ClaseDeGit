@@ -1,0 +1,5 @@
+Model\Estudiante.class
+Model\Matematicas.class
+Model\ListaEstudiantes.class
+Vista\EstudiantesTecnologias.class
+Model\Desarrollo.class
